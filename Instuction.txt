@@ -2,6 +2,7 @@ git init (инициализируем директорию для работы 
 git add .   добавляем все файлы(можно указать имя)
 git commit -m  ""  делаем комит
 git push
+git pull
 git checkout xxx  - меняем ветку
 git checkout -b <....> - создаем ветку
 git branch - список всех веток()
